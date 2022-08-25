@@ -1,4 +1,3 @@
-### Hi there 👋
 - 🔭 I’m currently working on `MyWebsite`、`gitBook`
 - 🌱 I’m currently learning `WbebGL`、`GLSL`
 
