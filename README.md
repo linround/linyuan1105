@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on MyWebsite、gitBook
+- 🌱 I’m currently learning webgl
+
 
 <!--
 **linyuan1105/linyuan1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
