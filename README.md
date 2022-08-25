@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on MyWebsite、gitBook
-- 🌱 I’m currently learning webgl
+- 🔭 I’m currently working on `MyWebsite`、`gitBook`
+- 🌱 I’m currently learning `WbebGL`、`GLSL`
 
 
 <!--
