@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on `MyWebsite`、`gitBook、` ` react_ts_website`
+- 🔭 I’m currently working on `gitBook、` ` react_ts_website`
 - 🌱 I’m currently learning `WbebGL`、`GLSL`
 
 
