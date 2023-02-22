@@ -1,5 +1,6 @@
 - 🔭 I’m currently working on `gitBook、` ` calendar`、` calendar_service`
 - 🌱 I’m currently learning `WbebGL`、`GLSL`
+- 🤔 Committed to web full stack
 
 
 <!--
